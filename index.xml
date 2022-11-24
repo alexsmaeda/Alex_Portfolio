@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Welcome! on Alexandre</title>
+    <link>https://alexsmaeda.github.io/Alex_Portfolio/</link>
+    <description>Recent content in Welcome! on Alexandre</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 09 Nov 2022 10:58:08 -0400</lastBuildDate><atom:link href="https://alexsmaeda.github.io/Alex_Portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project 1: US Domestic AirLine Performance</title>
+      <link>https://alexsmaeda.github.io/Alex_Portfolio/post/project-1/</link>
+      <pubDate>Wed, 09 Nov 2022 10:58:08 -0400</pubDate>
+      
+      <guid>https://alexsmaeda.github.io/Alex_Portfolio/post/project-1/</guid>
+      <description>Yearly airline performance report
+For the chosen year provide,
+Number of flights under different cancellation categories using bar chart. Average flight time by reporting airline using line chart. Percentage of diverted airport landings per reporting airline using pie chart. Number of flights flying from each state using choropleth map. Number of flights flying to each state from each reporting airline using treemap chart. Yearly average flight delay statistics
+For the chosen year provide,</description>
+    </item>
+    
+    <item>
+      <title>Coming soon...</title>
+      <link>https://alexsmaeda.github.io/Alex_Portfolio/post/project-2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://alexsmaeda.github.io/Alex_Portfolio/post/project-2/</guid>
+      <description>Wait! Soon you will see more about my projects.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://alexsmaeda.github.io/Alex_Portfolio/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://alexsmaeda.github.io/Alex_Portfolio/contact/</guid>
+      <description>Follow me on these social media
+Platform URL LinkedIn: https://www.linkedin.com/in/alexandre-maeda/ Github: https://github.com/alexsmaeda Emaiil: alexandresmaeda@gmail.com </description>
+    </item>
+    
+  </channel>
+</rss>

@@ -8,6 +8,26 @@
     <language>en-us</language>
     <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate><atom:link href="https://alexsmaeda.github.io/Alex_Portfolio/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Project 4: Youtube Analysis</title>
+      <link>https://alexsmaeda.github.io/Alex_Portfolio/post/project-4/</link>
+      <pubDate>Wed, 01 Feb 2023 10:58:08 -0400</pubDate>
+      
+      <guid>https://alexsmaeda.github.io/Alex_Portfolio/post/project-4/</guid>
+      <description>Youtube Analysis Project background and context This project aims to provide a comprehensive overview of a YouTube channel, with a focus on key metrics such as video performance, audience demographics, channel growth, video content analysis, trending topics, and a comparison with similar channels. The goal of this project is to provide insights into the channel&amp;rsquo;s strengths and areas for improvement, and to inform strategic decisions related to content creation, audience engagement, and monetization.</description>
+    </item>
+    
+    <item>
+      <title>Project 3: SpaceX - Winning the space race</title>
+      <link>https://alexsmaeda.github.io/Alex_Portfolio/post/project-3/</link>
+      <pubDate>Sat, 28 Jan 2023 10:58:08 -0400</pubDate>
+      
+      <guid>https://alexsmaeda.github.io/Alex_Portfolio/post/project-3/</guid>
+      <description>SpaceX - Winning the space race Project background and context
+We have identified that for SpaceY be able to compete with Space X our client needs to know what are the best practices, the key parameter what the probability of the first stage to land successfully. Having a successful land of the first stage means saving almost 200 milion dollars. Problems you want to find answers
+The project task is to predict what are the chances of the first stage to land successfully, and how the other components like payload, booster, and launch sites can impact on that chance, using SpaceX Falcon 9 as a model Methodologies</description>
+    </item>
+    
+    <item>
       <title>Project 2: Credit Card Fraud Detection</title>
       <link>https://alexsmaeda.github.io/Alex_Portfolio/post/project-2/</link>
       <pubDate>Tue, 06 Dec 2022 10:58:08 -0400</pubDate>
@@ -26,15 +46,6 @@
 For the chosen year provide,
 Number of flights under different cancellation categories using bar chart. Average flight time by reporting airline using line chart. Percentage of diverted airport landings per reporting airline using pie chart. Number of flights flying from each state using choropleth map. Number of flights flying to each state from each reporting airline using treemap chart. Yearly average flight delay statistics
 For the chosen year provide,</description>
-    </item>
-    
-    <item>
-      <title>Coming soon...</title>
-      <link>https://alexsmaeda.github.io/Alex_Portfolio/post/project-comming-soon/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://alexsmaeda.github.io/Alex_Portfolio/post/project-comming-soon/</guid>
-      <description>Wait! Soon you will see more about my projects.</description>
     </item>
     
   </channel>
